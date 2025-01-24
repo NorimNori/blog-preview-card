@@ -74,6 +74,12 @@ main {
     font-weight: 900;
     line-height: 150%;
     margin: .7rem 0 .85rem;
+    transition: color 0.4s ease;
+}
+
+.card__title:hover {
+    color:hsl(47, 88%, 63%);
+    cursor: pointer;
 }
 
 .card__description {
