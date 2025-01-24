@@ -123,4 +123,9 @@ footer a {
         font-size: .85rem;
         line-height: 130%;
     }
+
+    .card__tag {
+        font-size: .7rem;
+        border-radius: 4px;
+    }
 }
